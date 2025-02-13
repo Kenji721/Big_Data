@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes the impact of student lifestyle factors on mental health and academic performance using big data techniques.
+This code was runed in Google Colab
 
 ## Dataset
 - **Depression Student Dataset**: Examines the connection between mental health and various lifestyle factors.
